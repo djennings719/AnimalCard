@@ -1,0 +1,33 @@
+/* add your CSS here */
+.text-italic{
+	font-style: italic;
+}
+
+.text-bold{
+	font-weight: bold; 
+}
+
+.list-no-bullets{
+	list-style-type: none; 
+	padding-left: 0;
+}
+
+.border-page{
+	border: 1px solid grey;
+	padding: 10px;
+	max-width: 300px;
+}
+
+.border-text-info{
+	border: 1px solid grey;
+	padding: 10px;
+	max-width: 280px;
+}
+
+.spacer-padding{
+	padding: 10px 0;
+}
+
+.card-background-color{
+	background-color: gold;
+}
